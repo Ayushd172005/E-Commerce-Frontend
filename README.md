@@ -6,7 +6,7 @@ This project demonstrates industry-standard frontend architecture, component-bas
 ---
 
 ## 📌 Project Overview
-
+ 
 **ShopHub** is a responsive e-commerce frontend designed to simulate real-world online shopping experiences.  
 The project focuses on clean UI/UX, modular React components, and production-grade tooling suitable for deployment on platforms like **Vercel**.
 
